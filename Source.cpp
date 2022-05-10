@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-	/*//Task 1
+	//Task 1
 	ofstream out;
 	out.open("file.txt", ios::app);
 	if (out.is_open()) {
@@ -38,7 +38,7 @@ int main() {
 	in.close();
 
 
-	remove("file.txt");*/
+	remove("file.txt");
 
 	//Task 2
 	string path;
